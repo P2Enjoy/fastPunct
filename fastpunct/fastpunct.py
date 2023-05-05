@@ -6,11 +6,11 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 MODEL_URLS = {
     "english": {
-        "pytorch_model.bin": "https://github.com/notAI-tech/fastPunct/releases/download/v2/pytorch_model.bin",
-        "config.json": "https://github.com/notAI-tech/fastPunct/releases/download/v2/config.json",
-        "special_tokens_map.json": "https://github.com/notAI-tech/fastPunct/releases/download/v2/special_tokens_map.json",
-        "spiece.model": "https://github.com/notAI-tech/fastPunct/releases/download/v2/spiece.model",
-        "tokenizer_config.json": "https://github.com/notAI-tech/fastPunct/releases/download/v2/tokenizer_config.json",
+        "pytorch_model.bin": "https://github.com/P2Enjoy/fastPunct/releases/download/v2/pytorch_model.bin",
+        "config.json": "https://github.com/P2Enjoy/fastPunct/releases/download/v2/config.json",
+        "special_tokens_map.json": "https://github.com/P2Enjoy/fastPunct/releases/download/v2/special_tokens_map.json",
+        "spiece.model": "https://github.com/P2Enjoy/fastPunct/releases/download/v2/spiece.model",
+        "tokenizer_config.json": "https://github.com/P2Enjoy/fastPunct/releases/download/v2/tokenizer_config.json",
     },
 }
 
